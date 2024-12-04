@@ -1,0 +1,848 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "OpenFE",
+        "importPath": "openfe",
+        "description": "openfe",
+        "isExtraImport": true,
+        "detail": "openfe",
+        "documentation": {}
+    },
+    {
+        "label": "transform",
+        "importPath": "openfe",
+        "description": "openfe",
+        "isExtraImport": true,
+        "detail": "openfe",
+        "documentation": {}
+    },
+    {
+        "label": "tree_to_formula",
+        "importPath": "openfe",
+        "description": "openfe",
+        "isExtraImport": true,
+        "detail": "openfe",
+        "documentation": {}
+    },
+    {
+        "label": "multiprocessing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "open_fe",
+        "importPath": "feature_engineering",
+        "description": "feature_engineering",
+        "isExtraImport": true,
+        "detail": "feature_engineering",
+        "documentation": {}
+    },
+    {
+        "label": "predict_power",
+        "importPath": "testing",
+        "description": "testing",
+        "isExtraImport": true,
+        "detail": "testing",
+        "documentation": {}
+    },
+    {
+        "label": "save_submission_file",
+        "importPath": "testing",
+        "description": "testing",
+        "isExtraImport": true,
+        "detail": "testing",
+        "documentation": {}
+    },
+    {
+        "label": "train_model",
+        "importPath": "training",
+        "description": "training",
+        "isExtraImport": true,
+        "detail": "training",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "xgboost",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "xgboost",
+        "description": "xgboost",
+        "detail": "xgboost",
+        "documentation": {}
+    },
+    {
+        "label": "XGBRegressor",
+        "importPath": "xgboost",
+        "description": "xgboost",
+        "isExtraImport": true,
+        "detail": "xgboost",
+        "documentation": {}
+    },
+    {
+        "label": "plot_importance",
+        "importPath": "xgboost",
+        "description": "xgboost",
+        "isExtraImport": true,
+        "detail": "xgboost",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "cupy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cupy",
+        "description": "cupy",
+        "detail": "cupy",
+        "documentation": {}
+    },
+    {
+        "label": "CatBoostRegressor",
+        "importPath": "catboost",
+        "description": "catboost",
+        "isExtraImport": true,
+        "detail": "catboost",
+        "documentation": {}
+    },
+    {
+        "label": "lightgbm",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "lightgbm",
+        "description": "lightgbm",
+        "detail": "lightgbm",
+        "documentation": {}
+    },
+    {
+        "label": "LGBMRegressor",
+        "importPath": "lightgbm",
+        "description": "lightgbm",
+        "isExtraImport": true,
+        "detail": "lightgbm",
+        "documentation": {}
+    },
+    {
+        "label": "optuna",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "optuna",
+        "description": "optuna",
+        "detail": "optuna",
+        "documentation": {}
+    },
+    {
+        "label": "StackingRegressor",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "Pipeline",
+        "importPath": "sklearn.pipeline",
+        "description": "sklearn.pipeline",
+        "isExtraImport": true,
+        "detail": "sklearn.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "mean_absolute_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "root_mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.font_manager",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.font_manager",
+        "description": "matplotlib.font_manager",
+        "detail": "matplotlib.font_manager",
+        "documentation": {}
+    },
+    {
+        "label": "resample",
+        "kind": 2,
+        "importPath": "data_cleaning",
+        "description": "data_cleaning",
+        "peekOfCode": "def resample(df, freq='10min'):\n    # 重採樣10T後的數據\n    df_resampled = df.resample(freq).mean().round(2)\n    return df_resampled\n# 採樣10T後的數據，處理極端值\ndef process_to_10T(folder_path, output_folder_path, freq='10min'):\n    print(\"處理資料採樣...\")\n    for file_name in os.listdir(folder_path):\n        if file_name.endswith('.csv'):\n            file_path = os.path.join(folder_path, file_name)",
+        "detail": "data_cleaning",
+        "documentation": {}
+    },
+    {
+        "label": "process_to_10T",
+        "kind": 2,
+        "importPath": "data_cleaning",
+        "description": "data_cleaning",
+        "peekOfCode": "def process_to_10T(folder_path, output_folder_path, freq='10min'):\n    print(\"處理資料採樣...\")\n    for file_name in os.listdir(folder_path):\n        if file_name.endswith('.csv'):\n            file_path = os.path.join(folder_path, file_name)\n            df = pd.read_csv(file_path, encoding='utf-8-sig')\n            # 轉換 DateTime 欄位為 datetime 格式\n            df['DateTime'] = pd.to_datetime(df['DateTime'])\n            # 移除重複的 'DateTime' 取平均值\n            df = df.groupby('DateTime', as_index=False).mean()",
+        "detail": "data_cleaning",
+        "documentation": {}
+    },
+    {
+        "label": "combine_train_data",
+        "kind": 2,
+        "importPath": "data_cleaning",
+        "description": "data_cleaning",
+        "peekOfCode": "def combine_train_data(output_folder_path):\n    # 定義兩個資料夾路徑\n    original_folder = \"data/36_TrainingData/\"\n    additional_folder = \"data/36_TrainingData_Additional_V2/\"\n    # 建立字典儲存每個地點的資料\n    location_data = {}\n    # 處理原始訓練資料\n    for i in range(1, 18):\n        file_name = f'L{i}_Train.csv'\n        file_path = os.path.join(original_folder, file_name)",
+        "detail": "data_cleaning",
+        "documentation": {}
+    },
+    {
+        "label": "drop_missing_values",
+        "kind": 2,
+        "importPath": "data_cleaning",
+        "description": "data_cleaning",
+        "peekOfCode": "def drop_missing_values(input_folder_path):\n    for file in os.listdir(input_folder_path):\n        if file.endswith('.csv'):\n            file_path = os.path.join(input_folder_path, file)\n            df = pd.read_csv(file_path, encoding='utf-8-sig')\n            df.dropna(inplace=True)\n            df.to_csv(file_path, index=False, encoding='utf-8-sig')\n            # 檢查是否有遺漏的數據列\n            print(f\"{file} 檢查缺值:\")\n            print(df.isnull().sum())",
+        "detail": "data_cleaning",
+        "documentation": {}
+    },
+    {
+        "label": "open_fe",
+        "kind": 2,
+        "importPath": "feature_engineering",
+        "description": "feature_engineering",
+        "peekOfCode": "def open_fe(df_train: pd.DataFrame, df_test: pd.DataFrame, target: str) -> Tuple[pd.DataFrame, pd.DataFrame]:\n    # 實例化\n    ofe = OpenFE()\n    # 獲取CPU最大線程數\n    n_jobs = multiprocessing.cpu_count()\n    # 分離特徵\n    d_x = df_train.iloc[:, df_train.columns != target]\n    # 分離結果column\n    d_y = df_train[[target]]\n    # 訓練",
+        "detail": "feature_engineering",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main():\n    start_time = time.time()\n    print(\"開始執行完整流程...\")\n    train_data_path = 'data/final_combined_train_data.csv'\n    test_data_path = 'data/processed_test_data.csv'\n    train_folder_path = 'data/train_data_processed/'\n    model_path = 'models/xgboost_model.bin'\n    # 完成所有資料前處理\n    # preprocessing_scripts = [\"data_cleaning.py\", \"preprocessing.py\"]\n    # for script in preprocessing_scripts:",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "create_time_features",
+        "kind": 2,
+        "importPath": "preprocessing",
+        "description": "preprocessing",
+        "peekOfCode": "def create_time_features(df):\n    '''\n    透過DateTime欄位創建時間特徵\n    '''\n    # df['quarter'] = df['DateTime'].dt.quarter\n    df['month'] = df['DateTime'].dt.month\n    df['day'] = df['DateTime'].dt.day\n    df['hour'] = df['DateTime'].dt.hour\n    df['minute'] = df['DateTime'].dt.minute\n    return df",
+        "detail": "preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "process_test_data",
+        "kind": 2,
+        "importPath": "preprocessing",
+        "description": "preprocessing",
+        "peekOfCode": "def process_test_data(test_data_path, output_path):\n    '''\n    處理測試數據，並創建時間特徵\n    '''\n    test = pd.read_csv(test_data_path)\n    # Convert '序號' to string type\n    test['序號'] = test['序號'].astype(str)\n    # Extract DateTime and LocationCode from '序號'\n    test['DateTime'] = pd.to_datetime(test['序號'].str[:12], format='%Y%m%d%H%M')\n    test['LocationCode'] = test['序號'].str[-2:].astype(str)",
+        "detail": "preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "process_train_data_time_feature",
+        "kind": 2,
+        "importPath": "preprocessing",
+        "description": "preprocessing",
+        "peekOfCode": "def process_train_data_time_feature(train_folder, output_folder_path):\n    '''\n    處理訓練數據，並創建時間特徵\n    '''\n    os.makedirs(output_folder_path, exist_ok=True)\n    for file_name in os.listdir(train_folder):\n        if file_name.endswith('.csv'):\n            file_path = os.path.join(train_folder, file_name)\n            try:\n                # 加載數據",
+        "detail": "preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_combine_data",
+        "kind": 2,
+        "importPath": "preprocessing",
+        "description": "preprocessing",
+        "peekOfCode": "def load_and_combine_data(folder_path, output_path='data/combined_train_data.csv'):\n    '''\n    合併訓練數據\n    '''\n    # 合併訓練數據\n    combined_df = pd.DataFrame()\n    # 讀取L1到L17的檔案\n    for i in range(1, 18):\n        file_name = f'L{i}_Train_combined_resampled_10T_processed.csv'\n        file_path = os.path.join(folder_path, file_name)",
+        "detail": "preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "add_features",
+        "kind": 2,
+        "importPath": "preprocessing",
+        "description": "preprocessing",
+        "peekOfCode": "def add_features():\n    '''\n    執行其他Python檔案以新增特徵\n    '''\n    scripts = [\n        \"process_ext_daily_traindata.py\",\n        \"process_ext_daily_testdata.py\",\n        \"process_ext_hour_traindata.py\",\n        \"process_ext_hour_testdata.py\",\n        \"process_ext_dbm.py\",",
+        "detail": "preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "process_radiation_data",
+        "kind": 2,
+        "importPath": "process_ext_daily_testdata",
+        "description": "process_ext_daily_testdata",
+        "peekOfCode": "def process_radiation_data(external_dir, filename_prefix):\n    radiation_data = {}\n    for month in range(1, 12):\n        filename = f\"{filename_prefix}-2024-{month:02d}.csv\"\n        file_path = os.path.join(external_dir, filename)\n        if os.path.exists(file_path):\n            df = pd.read_csv(file_path, encoding='utf-8-sig')\n            for _, row in df.iterrows():\n                day = int(row['ObsTime'])\n                radiation_data[(month, day)] = row['GloblRad']",
+        "detail": "process_ext_daily_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "external_dir_1",
+        "kind": 5,
+        "importPath": "process_ext_daily_testdata",
+        "description": "process_ext_daily_testdata",
+        "peekOfCode": "external_dir_1 = \"data/external_data/external_monthly/C0Z100/\"\nradiation_data_1 = process_radiation_data(external_dir_1, \"C0Z100\")\n# Process data for second location (L15-L17)\nexternal_dir_2 = \"data/external_data/external_monthly/466990/\"\nradiation_data_2 = process_radiation_data(external_dir_2, \"466990\")\n# Process test file\ntest_file = \"data/processed_test_data.csv\"\ndf = pd.read_csv(test_file, encoding='utf-8-sig')\n# Select appropriate radiation data based on location\nradiation_values = []",
+        "detail": "process_ext_daily_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "radiation_data_1",
+        "kind": 5,
+        "importPath": "process_ext_daily_testdata",
+        "description": "process_ext_daily_testdata",
+        "peekOfCode": "radiation_data_1 = process_radiation_data(external_dir_1, \"C0Z100\")\n# Process data for second location (L15-L17)\nexternal_dir_2 = \"data/external_data/external_monthly/466990/\"\nradiation_data_2 = process_radiation_data(external_dir_2, \"466990\")\n# Process test file\ntest_file = \"data/processed_test_data.csv\"\ndf = pd.read_csv(test_file, encoding='utf-8-sig')\n# Select appropriate radiation data based on location\nradiation_values = []\nfor _, row in df.iterrows():",
+        "detail": "process_ext_daily_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "external_dir_2",
+        "kind": 5,
+        "importPath": "process_ext_daily_testdata",
+        "description": "process_ext_daily_testdata",
+        "peekOfCode": "external_dir_2 = \"data/external_data/external_monthly/466990/\"\nradiation_data_2 = process_radiation_data(external_dir_2, \"466990\")\n# Process test file\ntest_file = \"data/processed_test_data.csv\"\ndf = pd.read_csv(test_file, encoding='utf-8-sig')\n# Select appropriate radiation data based on location\nradiation_values = []\nfor _, row in df.iterrows():\n    location_code = row['LocationCode'] \n    radiation_data = radiation_data_1 if location_code <= 14 else radiation_data_2",
+        "detail": "process_ext_daily_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "radiation_data_2",
+        "kind": 5,
+        "importPath": "process_ext_daily_testdata",
+        "description": "process_ext_daily_testdata",
+        "peekOfCode": "radiation_data_2 = process_radiation_data(external_dir_2, \"466990\")\n# Process test file\ntest_file = \"data/processed_test_data.csv\"\ndf = pd.read_csv(test_file, encoding='utf-8-sig')\n# Select appropriate radiation data based on location\nradiation_values = []\nfor _, row in df.iterrows():\n    location_code = row['LocationCode'] \n    radiation_data = radiation_data_1 if location_code <= 14 else radiation_data_2\n    rad_value = radiation_data.get((row['month'], row['day']), None)",
+        "detail": "process_ext_daily_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "test_file",
+        "kind": 5,
+        "importPath": "process_ext_daily_testdata",
+        "description": "process_ext_daily_testdata",
+        "peekOfCode": "test_file = \"data/processed_test_data.csv\"\ndf = pd.read_csv(test_file, encoding='utf-8-sig')\n# Select appropriate radiation data based on location\nradiation_values = []\nfor _, row in df.iterrows():\n    location_code = row['LocationCode'] \n    radiation_data = radiation_data_1 if location_code <= 14 else radiation_data_2\n    rad_value = radiation_data.get((row['month'], row['day']), None)\n    radiation_values.append(rad_value)\ndf['GloblRad_daily'] = radiation_values",
+        "detail": "process_ext_daily_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "process_ext_daily_testdata",
+        "description": "process_ext_daily_testdata",
+        "peekOfCode": "df = pd.read_csv(test_file, encoding='utf-8-sig')\n# Select appropriate radiation data based on location\nradiation_values = []\nfor _, row in df.iterrows():\n    location_code = row['LocationCode'] \n    radiation_data = radiation_data_1 if location_code <= 14 else radiation_data_2\n    rad_value = radiation_data.get((row['month'], row['day']), None)\n    radiation_values.append(rad_value)\ndf['GloblRad_daily'] = radiation_values\ndf['GloblRad_daily'] = pd.to_numeric(df['GloblRad_daily'], errors='coerce')",
+        "detail": "process_ext_daily_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "radiation_values",
+        "kind": 5,
+        "importPath": "process_ext_daily_testdata",
+        "description": "process_ext_daily_testdata",
+        "peekOfCode": "radiation_values = []\nfor _, row in df.iterrows():\n    location_code = row['LocationCode'] \n    radiation_data = radiation_data_1 if location_code <= 14 else radiation_data_2\n    rad_value = radiation_data.get((row['month'], row['day']), None)\n    radiation_values.append(rad_value)\ndf['GloblRad_daily'] = radiation_values\ndf['GloblRad_daily'] = pd.to_numeric(df['GloblRad_daily'], errors='coerce')\ndf['GloblRad_daily'] = df['GloblRad_daily'].interpolate(method='linear').round(2)  # Fill missing values using linear interpolation and round to 2 decimal places\n# Save updated file",
+        "detail": "process_ext_daily_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "df['GloblRad_daily']",
+        "kind": 5,
+        "importPath": "process_ext_daily_testdata",
+        "description": "process_ext_daily_testdata",
+        "peekOfCode": "df['GloblRad_daily'] = radiation_values\ndf['GloblRad_daily'] = pd.to_numeric(df['GloblRad_daily'], errors='coerce')\ndf['GloblRad_daily'] = df['GloblRad_daily'].interpolate(method='linear').round(2)  # Fill missing values using linear interpolation and round to 2 decimal places\n# Save updated file\ndf.to_csv(test_file, index=False, encoding='utf-8-sig')\nprint('Radiation daily data processed to testdata successfully.')",
+        "detail": "process_ext_daily_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "df['GloblRad_daily']",
+        "kind": 5,
+        "importPath": "process_ext_daily_testdata",
+        "description": "process_ext_daily_testdata",
+        "peekOfCode": "df['GloblRad_daily'] = pd.to_numeric(df['GloblRad_daily'], errors='coerce')\ndf['GloblRad_daily'] = df['GloblRad_daily'].interpolate(method='linear').round(2)  # Fill missing values using linear interpolation and round to 2 decimal places\n# Save updated file\ndf.to_csv(test_file, index=False, encoding='utf-8-sig')\nprint('Radiation daily data processed to testdata successfully.')",
+        "detail": "process_ext_daily_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "df['GloblRad_daily']",
+        "kind": 5,
+        "importPath": "process_ext_daily_testdata",
+        "description": "process_ext_daily_testdata",
+        "peekOfCode": "df['GloblRad_daily'] = df['GloblRad_daily'].interpolate(method='linear').round(2)  # Fill missing values using linear interpolation and round to 2 decimal places\n# Save updated file\ndf.to_csv(test_file, index=False, encoding='utf-8-sig')\nprint('Radiation daily data processed to testdata successfully.')",
+        "detail": "process_ext_daily_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "process_radiation_data",
+        "kind": 2,
+        "importPath": "process_ext_daily_traindata",
+        "description": "process_ext_daily_traindata",
+        "peekOfCode": "def process_radiation_data(external_dir, filename_prefix):\n    radiation_data = {}\n    for month in range(1, 12):\n        filename = f\"{filename_prefix}-2024-{month:02d}.csv\"\n        file_path = os.path.join(external_dir, filename)\n        if os.path.exists(file_path):\n            df = pd.read_csv(file_path, encoding='utf-8-sig')\n            for _, row in df.iterrows():\n                day = int(row['ObsTime'])\n                radiation_data[(month, day)] = row['GloblRad']",
+        "detail": "process_ext_daily_traindata",
+        "documentation": {}
+    },
+    {
+        "label": "external_dir_1",
+        "kind": 5,
+        "importPath": "process_ext_daily_traindata",
+        "description": "process_ext_daily_traindata",
+        "peekOfCode": "external_dir_1 = \"data/external_data/external_monthly/C0Z100\"\nradiation_data_1 = process_radiation_data(external_dir_1, \"C0Z100\")\n# Process data for second location (L15-L17)\nexternal_dir_2 = \"data/external_data/external_monthly/466990\"\nradiation_data_2 = process_radiation_data(external_dir_2, \"466990\")\n# Process training files\ntrain_dir = \"data/train_data_processed\"\n# Process training files\nfor i in range(1, 18):\n    filename = f\"L{i}_Train_combined_resampled_10T_processed.csv\"",
+        "detail": "process_ext_daily_traindata",
+        "documentation": {}
+    },
+    {
+        "label": "radiation_data_1",
+        "kind": 5,
+        "importPath": "process_ext_daily_traindata",
+        "description": "process_ext_daily_traindata",
+        "peekOfCode": "radiation_data_1 = process_radiation_data(external_dir_1, \"C0Z100\")\n# Process data for second location (L15-L17)\nexternal_dir_2 = \"data/external_data/external_monthly/466990\"\nradiation_data_2 = process_radiation_data(external_dir_2, \"466990\")\n# Process training files\ntrain_dir = \"data/train_data_processed\"\n# Process training files\nfor i in range(1, 18):\n    filename = f\"L{i}_Train_combined_resampled_10T_processed.csv\"\n    file_path = os.path.join(train_dir, filename)",
+        "detail": "process_ext_daily_traindata",
+        "documentation": {}
+    },
+    {
+        "label": "external_dir_2",
+        "kind": 5,
+        "importPath": "process_ext_daily_traindata",
+        "description": "process_ext_daily_traindata",
+        "peekOfCode": "external_dir_2 = \"data/external_data/external_monthly/466990\"\nradiation_data_2 = process_radiation_data(external_dir_2, \"466990\")\n# Process training files\ntrain_dir = \"data/train_data_processed\"\n# Process training files\nfor i in range(1, 18):\n    filename = f\"L{i}_Train_combined_resampled_10T_processed.csv\"\n    file_path = os.path.join(train_dir, filename)\n    if os.path.exists(file_path):\n        df = pd.read_csv(file_path, encoding='utf-8-sig')",
+        "detail": "process_ext_daily_traindata",
+        "documentation": {}
+    },
+    {
+        "label": "radiation_data_2",
+        "kind": 5,
+        "importPath": "process_ext_daily_traindata",
+        "description": "process_ext_daily_traindata",
+        "peekOfCode": "radiation_data_2 = process_radiation_data(external_dir_2, \"466990\")\n# Process training files\ntrain_dir = \"data/train_data_processed\"\n# Process training files\nfor i in range(1, 18):\n    filename = f\"L{i}_Train_combined_resampled_10T_processed.csv\"\n    file_path = os.path.join(train_dir, filename)\n    if os.path.exists(file_path):\n        df = pd.read_csv(file_path, encoding='utf-8-sig')\n        # Select appropriate radiation data based on location",
+        "detail": "process_ext_daily_traindata",
+        "documentation": {}
+    },
+    {
+        "label": "train_dir",
+        "kind": 5,
+        "importPath": "process_ext_daily_traindata",
+        "description": "process_ext_daily_traindata",
+        "peekOfCode": "train_dir = \"data/train_data_processed\"\n# Process training files\nfor i in range(1, 18):\n    filename = f\"L{i}_Train_combined_resampled_10T_processed.csv\"\n    file_path = os.path.join(train_dir, filename)\n    if os.path.exists(file_path):\n        df = pd.read_csv(file_path, encoding='utf-8-sig')\n        # Select appropriate radiation data based on location\n        radiation_data = radiation_data_1 if i <= 14 else radiation_data_2\n        # Add radiation data",
+        "detail": "process_ext_daily_traindata",
+        "documentation": {}
+    },
+    {
+        "label": "process_train_data",
+        "kind": 2,
+        "importPath": "process_ext_dbm",
+        "description": "process_ext_dbm",
+        "peekOfCode": "def process_train_data(dbm_file_path, target_file_path, location_codes):\n    dbm_df = pd.read_csv(dbm_file_path, encoding='utf-8-sig')\n    dbm_df['DateTime'] = pd.to_datetime(dbm_df['DateTime'])\n    dbm_df['month'] = dbm_df['DateTime'].dt.month\n    dbm_df['day'] = dbm_df['DateTime'].dt.day\n    dbm_df['hour'] = dbm_df['DateTime'].dt.hour\n    dbm_df['minute'] = dbm_df['DateTime'].dt.minute\n    target_df = pd.read_csv(target_file_path, encoding='utf-8-sig')\n    target_df['DateTime'] = pd.to_datetime(target_df['DateTime'])\n    target_df['month'] = target_df['DateTime'].dt.month",
+        "detail": "process_ext_dbm",
+        "documentation": {}
+    },
+    {
+        "label": "process_test_data",
+        "kind": 2,
+        "importPath": "process_ext_dbm",
+        "description": "process_ext_dbm",
+        "peekOfCode": "def process_test_data(dbm_file_paths, test_file_path, location_codes_list):\n    test_df = pd.read_csv(test_file_path, encoding='utf-8-sig')\n    test_df['DateTime'] = pd.to_datetime(test_df['DateTime'])\n    test_df['month'] = test_df['DateTime'].dt.month\n    test_df['day'] = test_df['DateTime'].dt.day\n    test_df['hour'] = test_df['DateTime'].dt.hour\n    test_df['minute'] = test_df['DateTime'].dt.minute\n    dbm_values = [None] * len(test_df)\n    # 合併處理所有來源檔\n    for dbm_path, location_codes in zip(dbm_file_paths, location_codes_list):",
+        "detail": "process_ext_dbm",
+        "documentation": {}
+    },
+    {
+        "label": "dbm_file_path_1",
+        "kind": 5,
+        "importPath": "process_ext_dbm",
+        "description": "process_ext_dbm",
+        "peekOfCode": "dbm_file_path_1 = \"data/external_data/external_dbm/dbm_L1_14.csv\"\ndbm_file_path_2 = \"data/external_data/external_dbm/dbm_L15_16.csv\"\ndbm_file_path_3 = \"data/external_data/external_dbm/dbm_L17.csv\"\ntrain_data_dir = \"data/train_data_processed\"\n# 處理 LocationCode 1-14\nfor i in range(1, 15):\n    target_file_path = os.path.join(train_data_dir, f\"L{i}_Train_combined_resampled_10T_processed.csv\")\n    process_train_data(dbm_file_path_1, target_file_path, location_codes=range(1, 15))\n# 處理 LocationCode 15-16\nfor i in range(15, 17):",
+        "detail": "process_ext_dbm",
+        "documentation": {}
+    },
+    {
+        "label": "dbm_file_path_2",
+        "kind": 5,
+        "importPath": "process_ext_dbm",
+        "description": "process_ext_dbm",
+        "peekOfCode": "dbm_file_path_2 = \"data/external_data/external_dbm/dbm_L15_16.csv\"\ndbm_file_path_3 = \"data/external_data/external_dbm/dbm_L17.csv\"\ntrain_data_dir = \"data/train_data_processed\"\n# 處理 LocationCode 1-14\nfor i in range(1, 15):\n    target_file_path = os.path.join(train_data_dir, f\"L{i}_Train_combined_resampled_10T_processed.csv\")\n    process_train_data(dbm_file_path_1, target_file_path, location_codes=range(1, 15))\n# 處理 LocationCode 15-16\nfor i in range(15, 17):\n    target_file_path = os.path.join(train_data_dir, f\"L{i}_Train_combined_resampled_10T_processed.csv\")",
+        "detail": "process_ext_dbm",
+        "documentation": {}
+    },
+    {
+        "label": "dbm_file_path_3",
+        "kind": 5,
+        "importPath": "process_ext_dbm",
+        "description": "process_ext_dbm",
+        "peekOfCode": "dbm_file_path_3 = \"data/external_data/external_dbm/dbm_L17.csv\"\ntrain_data_dir = \"data/train_data_processed\"\n# 處理 LocationCode 1-14\nfor i in range(1, 15):\n    target_file_path = os.path.join(train_data_dir, f\"L{i}_Train_combined_resampled_10T_processed.csv\")\n    process_train_data(dbm_file_path_1, target_file_path, location_codes=range(1, 15))\n# 處理 LocationCode 15-16\nfor i in range(15, 17):\n    target_file_path = os.path.join(train_data_dir, f\"L{i}_Train_combined_resampled_10T_processed.csv\")\n    process_train_data(dbm_file_path_2, target_file_path, location_codes=range(15, 17))",
+        "detail": "process_ext_dbm",
+        "documentation": {}
+    },
+    {
+        "label": "train_data_dir",
+        "kind": 5,
+        "importPath": "process_ext_dbm",
+        "description": "process_ext_dbm",
+        "peekOfCode": "train_data_dir = \"data/train_data_processed\"\n# 處理 LocationCode 1-14\nfor i in range(1, 15):\n    target_file_path = os.path.join(train_data_dir, f\"L{i}_Train_combined_resampled_10T_processed.csv\")\n    process_train_data(dbm_file_path_1, target_file_path, location_codes=range(1, 15))\n# 處理 LocationCode 15-16\nfor i in range(15, 17):\n    target_file_path = os.path.join(train_data_dir, f\"L{i}_Train_combined_resampled_10T_processed.csv\")\n    process_train_data(dbm_file_path_2, target_file_path, location_codes=range(15, 17))\n# 處理 LocationCode 17",
+        "detail": "process_ext_dbm",
+        "documentation": {}
+    },
+    {
+        "label": "target_file_path",
+        "kind": 5,
+        "importPath": "process_ext_dbm",
+        "description": "process_ext_dbm",
+        "peekOfCode": "target_file_path = os.path.join(train_data_dir, \"L17_Train_combined_resampled_10T_processed.csv\")\nprocess_train_data(dbm_file_path_3, target_file_path, location_codes=[17])\n# Process for test data\ntest_file_path = \"data/processed_test_data.csv\"\ndbm_file_paths = [dbm_file_path_1, dbm_file_path_2, dbm_file_path_3]\nlocation_codes_list = [range(1, 15), range(15, 17), [17]]\nprocess_test_data(dbm_file_paths, test_file_path, location_codes_list)\nprint('DBM data processed and added to train data successfully.')\nprint('DBM data processed and added to test data successfully.')",
+        "detail": "process_ext_dbm",
+        "documentation": {}
+    },
+    {
+        "label": "test_file_path",
+        "kind": 5,
+        "importPath": "process_ext_dbm",
+        "description": "process_ext_dbm",
+        "peekOfCode": "test_file_path = \"data/processed_test_data.csv\"\ndbm_file_paths = [dbm_file_path_1, dbm_file_path_2, dbm_file_path_3]\nlocation_codes_list = [range(1, 15), range(15, 17), [17]]\nprocess_test_data(dbm_file_paths, test_file_path, location_codes_list)\nprint('DBM data processed and added to train data successfully.')\nprint('DBM data processed and added to test data successfully.')",
+        "detail": "process_ext_dbm",
+        "documentation": {}
+    },
+    {
+        "label": "dbm_file_paths",
+        "kind": 5,
+        "importPath": "process_ext_dbm",
+        "description": "process_ext_dbm",
+        "peekOfCode": "dbm_file_paths = [dbm_file_path_1, dbm_file_path_2, dbm_file_path_3]\nlocation_codes_list = [range(1, 15), range(15, 17), [17]]\nprocess_test_data(dbm_file_paths, test_file_path, location_codes_list)\nprint('DBM data processed and added to train data successfully.')\nprint('DBM data processed and added to test data successfully.')",
+        "detail": "process_ext_dbm",
+        "documentation": {}
+    },
+    {
+        "label": "location_codes_list",
+        "kind": 5,
+        "importPath": "process_ext_dbm",
+        "description": "process_ext_dbm",
+        "peekOfCode": "location_codes_list = [range(1, 15), range(15, 17), [17]]\nprocess_test_data(dbm_file_paths, test_file_path, location_codes_list)\nprint('DBM data processed and added to train data successfully.')\nprint('DBM data processed and added to test data successfully.')",
+        "detail": "process_ext_dbm",
+        "documentation": {}
+    },
+    {
+        "label": "process_hourly_radiation_data",
+        "kind": 2,
+        "importPath": "process_ext_hour_testdata",
+        "description": "process_ext_hour_testdata",
+        "peekOfCode": "def process_hourly_radiation_data(file_path):\n    radiation_data = {}\n    df = pd.read_csv(file_path)\n    for _, row in df.iterrows():\n        date = pd.to_datetime(row['日期'])\n        month = date.month\n        day = date.day\n        hour = row['觀測時間(hour)']\n        radiation_data[(month, day, hour)] = row['全天空日射量(MJ/㎡)']\n    return radiation_data",
+        "detail": "process_ext_hour_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "external_file_1",
+        "kind": 5,
+        "importPath": "process_ext_hour_testdata",
+        "description": "process_ext_hour_testdata",
+        "peekOfCode": "external_file_1 = \"data/external_data/external_daily/C0Z100/combined_csv.csv\"\nradiation_data_1 = process_hourly_radiation_data(external_file_1)\n# Process data for second location (L15-L17)\nexternal_file_2 = \"data/external_data/external_daily/466990/combined_csv.csv\"\nradiation_data_2 = process_hourly_radiation_data(external_file_2)\n# Process test file\ntest_file = \"data/processed_test_data.csv\"\ndf = pd.read_csv(test_file, encoding='utf-8-sig')\n# Select appropriate radiation data based on location\nradiation_values_hourly = []",
+        "detail": "process_ext_hour_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "radiation_data_1",
+        "kind": 5,
+        "importPath": "process_ext_hour_testdata",
+        "description": "process_ext_hour_testdata",
+        "peekOfCode": "radiation_data_1 = process_hourly_radiation_data(external_file_1)\n# Process data for second location (L15-L17)\nexternal_file_2 = \"data/external_data/external_daily/466990/combined_csv.csv\"\nradiation_data_2 = process_hourly_radiation_data(external_file_2)\n# Process test file\ntest_file = \"data/processed_test_data.csv\"\ndf = pd.read_csv(test_file, encoding='utf-8-sig')\n# Select appropriate radiation data based on location\nradiation_values_hourly = []\nfor _, row in df.iterrows():",
+        "detail": "process_ext_hour_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "external_file_2",
+        "kind": 5,
+        "importPath": "process_ext_hour_testdata",
+        "description": "process_ext_hour_testdata",
+        "peekOfCode": "external_file_2 = \"data/external_data/external_daily/466990/combined_csv.csv\"\nradiation_data_2 = process_hourly_radiation_data(external_file_2)\n# Process test file\ntest_file = \"data/processed_test_data.csv\"\ndf = pd.read_csv(test_file, encoding='utf-8-sig')\n# Select appropriate radiation data based on location\nradiation_values_hourly = []\nfor _, row in df.iterrows():\n    location_code = row['LocationCode']\n    radiation_data = radiation_data_1 if location_code <= 14 else radiation_data_2",
+        "detail": "process_ext_hour_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "radiation_data_2",
+        "kind": 5,
+        "importPath": "process_ext_hour_testdata",
+        "description": "process_ext_hour_testdata",
+        "peekOfCode": "radiation_data_2 = process_hourly_radiation_data(external_file_2)\n# Process test file\ntest_file = \"data/processed_test_data.csv\"\ndf = pd.read_csv(test_file, encoding='utf-8-sig')\n# Select appropriate radiation data based on location\nradiation_values_hourly = []\nfor _, row in df.iterrows():\n    location_code = row['LocationCode']\n    radiation_data = radiation_data_1 if location_code <= 14 else radiation_data_2\n    rad_value = radiation_data.get((row['month'], row['day'], row['hour']), None)",
+        "detail": "process_ext_hour_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "test_file",
+        "kind": 5,
+        "importPath": "process_ext_hour_testdata",
+        "description": "process_ext_hour_testdata",
+        "peekOfCode": "test_file = \"data/processed_test_data.csv\"\ndf = pd.read_csv(test_file, encoding='utf-8-sig')\n# Select appropriate radiation data based on location\nradiation_values_hourly = []\nfor _, row in df.iterrows():\n    location_code = row['LocationCode']\n    radiation_data = radiation_data_1 if location_code <= 14 else radiation_data_2\n    rad_value = radiation_data.get((row['month'], row['day'], row['hour']), None)\n    radiation_values_hourly.append(rad_value)\ndf['GloblRad_hourly'] = radiation_values_hourly",
+        "detail": "process_ext_hour_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "process_ext_hour_testdata",
+        "description": "process_ext_hour_testdata",
+        "peekOfCode": "df = pd.read_csv(test_file, encoding='utf-8-sig')\n# Select appropriate radiation data based on location\nradiation_values_hourly = []\nfor _, row in df.iterrows():\n    location_code = row['LocationCode']\n    radiation_data = radiation_data_1 if location_code <= 14 else radiation_data_2\n    rad_value = radiation_data.get((row['month'], row['day'], row['hour']), None)\n    radiation_values_hourly.append(rad_value)\ndf['GloblRad_hourly'] = radiation_values_hourly\ndf['GloblRad_hourly'] = pd.to_numeric(df['GloblRad_hourly'], errors='coerce')",
+        "detail": "process_ext_hour_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "radiation_values_hourly",
+        "kind": 5,
+        "importPath": "process_ext_hour_testdata",
+        "description": "process_ext_hour_testdata",
+        "peekOfCode": "radiation_values_hourly = []\nfor _, row in df.iterrows():\n    location_code = row['LocationCode']\n    radiation_data = radiation_data_1 if location_code <= 14 else radiation_data_2\n    rad_value = radiation_data.get((row['month'], row['day'], row['hour']), None)\n    radiation_values_hourly.append(rad_value)\ndf['GloblRad_hourly'] = radiation_values_hourly\ndf['GloblRad_hourly'] = pd.to_numeric(df['GloblRad_hourly'], errors='coerce')\ndf['GloblRad_hourly'] = df['GloblRad_hourly'].interpolate(method='linear').round(2) \n# Save updated file",
+        "detail": "process_ext_hour_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "df['GloblRad_hourly']",
+        "kind": 5,
+        "importPath": "process_ext_hour_testdata",
+        "description": "process_ext_hour_testdata",
+        "peekOfCode": "df['GloblRad_hourly'] = radiation_values_hourly\ndf['GloblRad_hourly'] = pd.to_numeric(df['GloblRad_hourly'], errors='coerce')\ndf['GloblRad_hourly'] = df['GloblRad_hourly'].interpolate(method='linear').round(2) \n# Save updated file\ndf.to_csv(test_file, index=False, encoding='utf-8-sig')\nprint('Radiation hourly data processed to testdata successfully.')",
+        "detail": "process_ext_hour_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "df['GloblRad_hourly']",
+        "kind": 5,
+        "importPath": "process_ext_hour_testdata",
+        "description": "process_ext_hour_testdata",
+        "peekOfCode": "df['GloblRad_hourly'] = pd.to_numeric(df['GloblRad_hourly'], errors='coerce')\ndf['GloblRad_hourly'] = df['GloblRad_hourly'].interpolate(method='linear').round(2) \n# Save updated file\ndf.to_csv(test_file, index=False, encoding='utf-8-sig')\nprint('Radiation hourly data processed to testdata successfully.')",
+        "detail": "process_ext_hour_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "df['GloblRad_hourly']",
+        "kind": 5,
+        "importPath": "process_ext_hour_testdata",
+        "description": "process_ext_hour_testdata",
+        "peekOfCode": "df['GloblRad_hourly'] = df['GloblRad_hourly'].interpolate(method='linear').round(2) \n# Save updated file\ndf.to_csv(test_file, index=False, encoding='utf-8-sig')\nprint('Radiation hourly data processed to testdata successfully.')",
+        "detail": "process_ext_hour_testdata",
+        "documentation": {}
+    },
+    {
+        "label": "process_hourly_radiation_data",
+        "kind": 2,
+        "importPath": "process_ext_hour_traindata",
+        "description": "process_ext_hour_traindata",
+        "peekOfCode": "def process_hourly_radiation_data(file_path):\n    radiation_data = {}\n    df = pd.read_csv(file_path, encoding='utf-8-sig')\n    for _, row in df.iterrows():\n        date = pd.to_datetime(row['日期'])\n        month = date.month\n        day = date.day\n        hour = row['觀測時間(hour)']\n        radiation_data[(month, day, hour)] = row['全天空日射量(MJ/㎡)']\n    return radiation_data",
+        "detail": "process_ext_hour_traindata",
+        "documentation": {}
+    },
+    {
+        "label": "external_file_1",
+        "kind": 5,
+        "importPath": "process_ext_hour_traindata",
+        "description": "process_ext_hour_traindata",
+        "peekOfCode": "external_file_1 = \"data/external_data/external_daily/C0Z100/combined_csv.csv\"\nradiation_data_1 = process_hourly_radiation_data(external_file_1)\n# Process data for second location (L15-L17)\nexternal_file_2 = \"data/external_data/external_daily/466990/combined_csv.csv\"\nradiation_data_2 = process_hourly_radiation_data(external_file_2)\n# Process training files\ntrain_dir = \"data/train_data_processed\"\n# 新增特徵到訓練資料\nfor i in range(1, 18):\n    filename = f\"L{i}_Train_combined_resampled_10T_processed.csv\"",
+        "detail": "process_ext_hour_traindata",
+        "documentation": {}
+    },
+    {
+        "label": "radiation_data_1",
+        "kind": 5,
+        "importPath": "process_ext_hour_traindata",
+        "description": "process_ext_hour_traindata",
+        "peekOfCode": "radiation_data_1 = process_hourly_radiation_data(external_file_1)\n# Process data for second location (L15-L17)\nexternal_file_2 = \"data/external_data/external_daily/466990/combined_csv.csv\"\nradiation_data_2 = process_hourly_radiation_data(external_file_2)\n# Process training files\ntrain_dir = \"data/train_data_processed\"\n# 新增特徵到訓練資料\nfor i in range(1, 18):\n    filename = f\"L{i}_Train_combined_resampled_10T_processed.csv\"\n    file_path = os.path.join(train_dir, filename)",
+        "detail": "process_ext_hour_traindata",
+        "documentation": {}
+    },
+    {
+        "label": "external_file_2",
+        "kind": 5,
+        "importPath": "process_ext_hour_traindata",
+        "description": "process_ext_hour_traindata",
+        "peekOfCode": "external_file_2 = \"data/external_data/external_daily/466990/combined_csv.csv\"\nradiation_data_2 = process_hourly_radiation_data(external_file_2)\n# Process training files\ntrain_dir = \"data/train_data_processed\"\n# 新增特徵到訓練資料\nfor i in range(1, 18):\n    filename = f\"L{i}_Train_combined_resampled_10T_processed.csv\"\n    file_path = os.path.join(train_dir, filename)\n    if os.path.exists(file_path):\n        df = pd.read_csv(file_path, encoding='utf-8-sig')",
+        "detail": "process_ext_hour_traindata",
+        "documentation": {}
+    },
+    {
+        "label": "radiation_data_2",
+        "kind": 5,
+        "importPath": "process_ext_hour_traindata",
+        "description": "process_ext_hour_traindata",
+        "peekOfCode": "radiation_data_2 = process_hourly_radiation_data(external_file_2)\n# Process training files\ntrain_dir = \"data/train_data_processed\"\n# 新增特徵到訓練資料\nfor i in range(1, 18):\n    filename = f\"L{i}_Train_combined_resampled_10T_processed.csv\"\n    file_path = os.path.join(train_dir, filename)\n    if os.path.exists(file_path):\n        df = pd.read_csv(file_path, encoding='utf-8-sig')\n        # Select appropriate radiation data based on location",
+        "detail": "process_ext_hour_traindata",
+        "documentation": {}
+    },
+    {
+        "label": "train_dir",
+        "kind": 5,
+        "importPath": "process_ext_hour_traindata",
+        "description": "process_ext_hour_traindata",
+        "peekOfCode": "train_dir = \"data/train_data_processed\"\n# 新增特徵到訓練資料\nfor i in range(1, 18):\n    filename = f\"L{i}_Train_combined_resampled_10T_processed.csv\"\n    file_path = os.path.join(train_dir, filename)\n    if os.path.exists(file_path):\n        df = pd.read_csv(file_path, encoding='utf-8-sig')\n        # Select appropriate radiation data based on location\n        radiation_data = radiation_data_1 if i <= 14 else radiation_data_2\n        # Add hourly radiation data",
+        "detail": "process_ext_hour_traindata",
+        "documentation": {}
+    },
+    {
+        "label": "load_solar_angles",
+        "kind": 2,
+        "importPath": "process_ext_solar_angles",
+        "description": "process_ext_solar_angles",
+        "peekOfCode": "def load_solar_angles():\n    solar_angles = pd.read_csv(\n        \"data/external_data/external_angles/solar_angles_10min_merged.csv\"\n    )\n    solar_angles['DateTime'] = pd.to_datetime(solar_angles['DateTime'])\n    solar_angles.set_index('DateTime', inplace=True)\n    return solar_angles[['仰角']]\ndef merge_solar_angles(target_file, solar_angles_df):\n    # Read target file\n    df = pd.read_csv(target_file)",
+        "detail": "process_ext_solar_angles",
+        "documentation": {}
+    },
+    {
+        "label": "merge_solar_angles",
+        "kind": 2,
+        "importPath": "process_ext_solar_angles",
+        "description": "process_ext_solar_angles",
+        "peekOfCode": "def merge_solar_angles(target_file, solar_angles_df):\n    # Read target file\n    df = pd.read_csv(target_file)\n    df['DateTime'] = pd.to_datetime(df['DateTime'])\n    # Merge with solar angles\n    df = df.merge(solar_angles_df, on='DateTime', how='left')\n    # Fill missing values with 0\n    df['仰角'] = df['仰角'].fillna(0)\n    # Save back to the same file\n    df.to_csv(target_file, index=False)",
+        "detail": "process_ext_solar_angles",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "process_ext_solar_angles",
+        "description": "process_ext_solar_angles",
+        "peekOfCode": "def main():\n    # Load solar angles data\n    solar_angles = load_solar_angles()\n    # Process test data\n    test_file = \"data/processed_test_data.csv\"\n    merge_solar_angles(test_file, solar_angles)\n    # Process training data files\n    train_path = \"data/train_data_processed\"\n    train_files = glob.glob(os.path.join(train_path, \"*.csv\"))\n    for train_file in train_files:",
+        "detail": "process_ext_solar_angles",
+        "documentation": {}
+    },
+    {
+        "label": "predict_power",
+        "kind": 2,
+        "importPath": "testing",
+        "description": "testing",
+        "peekOfCode": "def predict_power(model_path, df_test):\n    # 載入測試數據\n    test = df_test\n    # 載入整個 stacking 模型\n    model = joblib.load(model_path)\n    # 準備特徵\n    test = test.drop(['DateTime'], axis=1)\n    # 使用完整的 stacking 模型進行預測\n    predictions = model.predict(test)\n    test['答案'] = predictions",
+        "detail": "testing",
+        "documentation": {}
+    },
+    {
+        "label": "save_submission_file",
+        "kind": 2,
+        "importPath": "testing",
+        "description": "testing",
+        "peekOfCode": "def save_submission_file(test_with_predictions, original_test_data_path, output_path):\n    # 加載原始測試數據以獲取 '序號' 欄位\n    original_test = pd.read_csv(original_test_data_path)\n    # 取小數點後兩位\n    test_with_predictions['答案'] = test_with_predictions['答案'].round(2)\n    # 生成提交文件\n    submission = pd.DataFrame({\n        '序號': original_test['序號'],\n        '答案': test_with_predictions['答案']\n    })",
+        "detail": "testing",
+        "documentation": {}
+    },
+    {
+        "label": "objective",
+        "kind": 2,
+        "importPath": "training",
+        "description": "training",
+        "peekOfCode": "def objective(trial, X, y):\n    # 分割訓練集和驗證集\n    X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, random_state=42)\n    # 將數據移至 GPU\n    X_train = cp.array(X_train)\n    X_val = cp.array(X_val)\n    y_train = cp.array(y_train)\n    y_val = cp.array(y_val)\n    X = cp.array(X)\n    y = cp.array(y)",
+        "detail": "training",
+        "documentation": {}
+    },
+    {
+        "label": "train_model",
+        "kind": 2,
+        "importPath": "training",
+        "description": "training",
+        "peekOfCode": "def train_model(df_train, model_output_path):\n    # 準備訓練數據\n    X = df_train.drop(['Power(mW)'], axis=1)\n    y = df_train['Power(mW)']\n    # 創建 Optuna study\n    # study = optuna.create_study(direction='minimize')\n    # study.optimize(lambda trial: objective(trial, X, y), n_trials=20)\n    # 輸出最佳參數\n    # print('最佳參數:')\n    # for key, value in study.best_params.items():",
+        "detail": "training",
+        "documentation": {}
+    },
+    {
+        "label": "plt.rcParams['font.family']",
+        "kind": 5,
+        "importPath": "training",
+        "description": "training",
+        "peekOfCode": "plt.rcParams['font.family'] = ['Microsoft JhengHei', 'sans-serif']\ndef objective(trial, X, y):\n    # 分割訓練集和驗證集\n    X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, random_state=42)\n    # 將數據移至 GPU\n    X_train = cp.array(X_train)\n    X_val = cp.array(X_val)\n    y_train = cp.array(y_train)\n    y_val = cp.array(y_val)\n    X = cp.array(X)",
+        "detail": "training",
+        "documentation": {}
+    }
+]
